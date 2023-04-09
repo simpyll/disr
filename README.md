@@ -4,6 +4,7 @@ David's Information Security Resources
 ## TOC 
 
 * [Education](#education)
+* [Email Harvesting](email-harvesting)
 * [IPS](#ips)
 * [Hash Lookup](#hash-lookup)
 * [Tools](#tools)
@@ -16,8 +17,13 @@ David's Information Security Resources
 ### Education 
 - [TryHackme](https://tryhackme.com)
 
+### Email Harvesting
+- [theHarvester](https://github.com/laramies/theHarvester)
+- [Hunter.io](https://hunter.io/)
+
 ### Frameworks
 - [Mitre Att&ck](https://attack.mitre.org/)
+- [OSINT](https://osintframework.com/)
 
 ### IPS
 - [Snort](https://www.snort.org/)
