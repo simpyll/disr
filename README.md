@@ -4,7 +4,7 @@ David's Information Security Resources
 ## TOC 
 
 * [Education](#education)
-* [Hash Lookup](#hashlookup)
+* [Hash Lookup](#hash-lookup)
 * [Tools](#tools)
 * [Vulnerabilities](#vulnerabilities)
 
