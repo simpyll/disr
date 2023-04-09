@@ -4,6 +4,7 @@ David's Information Security Resources
 ## TOC 
 
 * [Education](#education)
+* [IPS](#ips)
 * [Hash Lookup](#hash-lookup)
 * [Tools](#tools)
 * [Vulnerabilities](#vulnerabilities)
@@ -15,6 +16,9 @@ David's Information Security Resources
 ### Education 
 
 - [TryHackme](https://tryhackme.com)
+
+### IPS
+- [Snort](https://www.snort.org/)
 
 ### Hash Lookup
 
