@@ -12,6 +12,11 @@ David's Information Security Resources
 
 - [TryHackme](https://tryhackme.com)
 
+### Hash Lookup
+
+- [Virus Total](https://www.virustotal.com/gui/home/upload)
+- [Meta Defender](https://metadefender.opswat.com/)
+
 ### Tools 
 
 - [Bettercap](https://www.bettercap.org/)
