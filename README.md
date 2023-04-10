@@ -25,6 +25,7 @@ David's Information Security Resources
 - [Mitre Att&ck](https://attack.mitre.org/)
 - [OSINT](https://osintframework.com/)
 - [Unified Killchain](https://unifiedkillchain.com/)
+- [Unified Killchain Extended](https://www.unifiedkillchain.com/assets/The-Unified-Kill-Chain.pdf)
 
 ### IPS
 - [Snort](https://www.snort.org/)
