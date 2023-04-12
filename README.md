@@ -16,6 +16,8 @@ David's Information Security Resources
 
 ### Education 
 - [TryHackme](https://tryhackme.com)
+- [Pentester Lab](https://pentesterlab.com/)
+- [Web Sploit](https://websploit.org/)
 
 ### Email Harvesting
 - [theHarvester](https://github.com/laramies/theHarvester)
