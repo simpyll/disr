@@ -3,6 +3,7 @@ David's Information Security Resources
 
 ## TOC 
 
+* [Blogs](#blogs)
 * [Education](#education)
 * [Email Harvesting](email-harvesting)
 * [IPS](#ips)
@@ -13,11 +14,15 @@ David's Information Security Resources
 
 ------------------
 
+### Blogs
+- [Hacking Articles](https://www.hackingarticles.in/)
 
 ### Education 
 - [TryHackme](https://tryhackme.com)
 - [Pentester Lab](https://pentesterlab.com/)
 - [Web Sploit](https://websploit.org/)
+- [Hacker 101](https://www.hacker101.com/)
+- [Pentester Academy](https://www.pentesteracademy.com/)
 
 ### Email Harvesting
 - [theHarvester](https://github.com/laramies/theHarvester)
