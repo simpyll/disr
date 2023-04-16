@@ -8,6 +8,7 @@ David's Information Security Resources
 * [Email Harvesting](email-harvesting)
 * [IPS](#ips)
 * [Hash Lookup](#hash-lookup)
+* [Recon](#recon)
 * [Tools](#tools)
 * [Vulnerabilities](#vulnerabilities)
 
@@ -41,6 +42,9 @@ David's Information Security Resources
 ### Hash Lookup
 - [Virus Total](https://www.virustotal.com/gui/home/upload)
 - [Meta Defender](https://metadefender.opswat.com/)
+
+### Recon
+- [URL Scan](https://urlscan.io/) - Provides a list of technologies used on a website and other valuable information about specific URLs.
 
 ### Tools 
 - [Bettercap](https://www.bettercap.org/)
