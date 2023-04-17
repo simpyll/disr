@@ -22,6 +22,7 @@ David's Information Security Resources
 
 ### Blogs
 - [Hacking Articles](https://www.hackingarticles.in/)
+- [Rana Khalil](https://rana-khalil.gitbook.io/hack-the-box-oscp-preparation/)
 
 ### Education 
 - [TryHackme](https://tryhackme.com)
