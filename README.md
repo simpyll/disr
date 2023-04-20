@@ -19,13 +19,15 @@ David's Information Security Resources
 
 ### CTF
 - [Vuln Hub](https://www.vulnhub.com/)
+- [Pico CTF](https://picoctf.org/)
+- [TryHackme](https://tryhackme.com)
+- [Hack The Box](https://www.hackthebox.com/)
 
 ### Blogs
 - [Hacking Articles](https://www.hackingarticles.in/)
 - [Rana Khalil](https://rana-khalil.gitbook.io/hack-the-box-oscp-preparation/)
 
 ### Education 
-- [TryHackme](https://tryhackme.com)
 - [Pentester Lab](https://pentesterlab.com/)
 - [Web Sploit](https://websploit.org/)
 - [Hacker 101](https://www.hacker101.com/)
