@@ -63,6 +63,7 @@ David's Information Security Resources
 - [enum4linux](https://www.kali.org/tools/enum4linux/) - a tool for enumerating information from Windows and Samba systems
 - [gobuster](https://www.kali.org/tools/gobuster/) - brute force website dirs
 - [hydra](https://www.kali.org/tools/hydra/) - login cracker
+- [linpeas](https://www.kali.org/tools/peass-ng/#linpeas) - Privilege escalation tools for Windows and Linux/Unix* and MacOS.
 
 
 ### Vulnerabilities 
