@@ -60,6 +60,10 @@ David's Information Security Resources
 ### Tools 
 - [Bettercap](https://www.bettercap.org/)
 - [Abuse.ch](https://abuse.ch/) - Malware and botnet tool collection and database
+- [enum4linux](https://www.kali.org/tools/enum4linux/) - a tool for enumerating information from Windows and Samba systems
+- [gobuster](https://www.kali.org/tools/gobuster/) - brute force website dirs
+- [hydra](https://www.kali.org/tools/hydra/) - login cracker
+
 
 ### Vulnerabilities 
 - [Exploit DB](https://www.exploit-db.com/)
